@@ -1,60 +1,117 @@
-# 📊 Olá, eu sou Samuel Elias !
+# 👨‍💻 Samuel Elias
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Estagiário em Inteligência de Dados e BI**
+**Estudante de Análise e Desenvolvimento de Sistemas | Focado em Engenharia de Dados, Banco de Dados e Automação de Dados**
 
-Minha trajetória profissional teve início em operações industriais de alta exigência, onde aprendi que processos eficientes e métricas exatas são o alicerce de qualquer negócio estruturado. Hoje, aplico essa mesma disciplina analítica na área de Dados, focando na extração, tratamento e visualização de informações para direcionar o planejamento estratégico corporativo.
-
----
-
-## 🚀 Hard Skills & Tecnologias
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🗄️ Extração & Banco de Dados</h3>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-      <p><em>Domínio em consultas complexas, JOINs múltiplos, funções de agregação (GROUP BY), CTEs e estruturação de bases para análises relacionais.</em></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>⚙️ Tratamento & ETL</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <p><em>Limpeza automatizada de bases brutas, tratamento de anomalias e análise exploratória de dados operacionais visando escalabilidade.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📈 Business Intelligence</h3>
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-      <p><em>Modelagem dimensional (Star Schema), cálculos avançados com DAX, Power Query e design de dashboards focados em Storytelling executivo.</em></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>☁️ Ecossistema Cloud</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <p><em>Em preparação ativa para a certificação Cloud Practitioner, consolidando o entendimento da arquitetura e hospedagem de dados modernos.</em></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🎯 Foco Atual
-
-- 🔭 Estruturando análises de ponta a ponta: da extração bruta à visualização em painéis interativos.
-- 🌱 Aprofundando estudos em automação analítica e resolução de problemas reais de negócios.
+Atualmente desenvolvendo projetos práticos em Engenharia de Dados com foco em SQL, PostgreSQL, Python e pipelines ETL.  
+Tenho interesse em construção de pipelines, modelagem de dados, automação de processos e estruturação de ambientes de dados escaláveis.
 
 ---
 
-## 📫 Vamos nos conectar?
+# 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="www.linkedin.com/in/samuellimausa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:samuellimausa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+### 🗄️ Banco de Dados & SQL
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### ⚙️ Engenharia de Dados & ETL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+### 🧰 Ferramentas & Versionamento
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+### ☁️ Cloud & Estudos Atuais
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
 </div>
 
-<br>
+---
+
+# 📚 Atualmente Estudando
+
+- Engenharia de Dados
+- SQL avançado
+- PostgreSQL
+- Python para ETL e automação
+- Modelagem de Dados
+- Pipelines de Dados
+- Cloud Computing (AWS)
+- Git & versionamento
+
+---
+
+# 📌 Projetos em Destaque
+
+## 📊 E-commerce SQL Analysis
+Projeto voltado para análise de vendas utilizando SQL e PostgreSQL.
+
+### Principais tópicos:
+- JOINs
+- CTEs
+- Subqueries
+- GROUP BY
+- HAVING
+- KPIs comerciais
+- Análise de faturamento
+- Modelagem relacional
+
+🔗 Repositório:
+:contentReference[oaicite:0]{index=0}
+
+---
+
+## ⚙️ Pipeline ETL com Python + PostgreSQL
+
+Pipeline simples de engenharia de dados realizando:
+- Extração de dados CSV
+- Transformação e limpeza com Pandas
+- Carregamento em PostgreSQL
+- Estruturação ETL
+
+### Tecnologias:
+- Python
+- Pandas
+- PostgreSQL
+
+---
+
+# 🎯 Objetivo Profissional
+
+Busco oportunidades de estágio em:
+- Engenharia de Dados
+- Banco de Dados
+- Back-end
+- Dados & Analytics
+- Tecnologia da Informação
+
+Com foco em desenvolvimento técnico, construção de pipelines e processamento de dados.
+
+---
+
+# 📫 Contato
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelAnalytics&show_icons=true&theme=transparent&hide_border=true&title_color=005C84&icon_color=005C84" />
+
+<a href="https://www.linkedin.com/in/samuellimadataeng">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:samuellimadba@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamuelAnalytics&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAnalytics&layout=compact&theme=transparent&hide_border=true" />
+
 </div>
