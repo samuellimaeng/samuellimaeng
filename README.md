@@ -33,7 +33,7 @@ Tenho interesse em construção de pipelines, modelagem de dados, automação de
 # 📚 Atualmente Estudando
 
 - Engenharia de Dados
-- SQL avançado
+- SQL 
 - PostgreSQL
 - Python para ETL e automação
 - Modelagem de Dados
@@ -54,12 +54,7 @@ Projeto voltado para análise de vendas utilizando SQL e PostgreSQL.
 - Subqueries
 - GROUP BY
 - HAVING
-- KPIs comerciais
-- Análise de faturamento
 - Modelagem relacional
-
-🔗 Repositório:
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -83,8 +78,7 @@ Pipeline simples de engenharia de dados realizando:
 Busco oportunidades de estágio em:
 - Engenharia de Dados
 - Banco de Dados
-- Back-end
-- Dados & Analytics
+- Dados 
 - Tecnologia da Informação
 
 Com foco em desenvolvimento técnico, construção de pipelines e processamento de dados.
